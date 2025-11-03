@@ -54,10 +54,8 @@ IoT-Smart-Home/
 
 ## ▶️ Usage
 - Open **Blynk App** → Control devices via buttons  
-- OR run Python server:
-```bash
-python server.py
-```
+
+
 
 ---
 
